@@ -1,2 +1,5 @@
 # m18-design-challenge
-Gulp Roast Coffee
+
+This is a UX/UI Bootcamp Assignment. Gulp Roast Coffee About Us.
+
+Contact at: diegocanales.icons@gmail.com
