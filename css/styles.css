@@ -206,8 +206,8 @@ footer a {
   nav a {
     color: white;
     text-decoration: none;
-    display: block;
-    justify-content: left;
+    display: flex;
+    justify-content: center;
   }
   nav a:hover {
     color: #d98555;
